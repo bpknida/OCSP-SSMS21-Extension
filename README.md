@@ -1,6 +1,6 @@
 **OCSP SSMS 21 Extension** 
 
-**Installer:**https://github.com/bpknida/OCSP-SSMS21-Extension/releases/tag/V1.0
+**Installer:**https://github.com/bpknida/OCSP-SSMS21-Extension/releases/tag/V2.0
 
 **Features:**
 
